@@ -1,5 +1,7 @@
 import { FC } from "react";
 
+import "../styles/list-item.css";
+
 interface Prop {
     value: string;
 }

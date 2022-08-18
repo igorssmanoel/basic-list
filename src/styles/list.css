@@ -1,0 +1,50 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card {
+    width: 50%;
+    padding: 16px;
+    border: 1px solid lightblue;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 42px;
+}
+
+ul {
+    padding: 10px;
+}
+
+input {
+    width: 100%;
+    border: 1px solid lightgreen;
+    border-radius: 15px;
+    text-align: center;
+    padding: 2px;
+}
+
+button {
+    font-weight: bold;
+    width: 100%;
+    margin: 10px;
+    border: none;
+    border-radius: 15px;
+    background: lightgreen;
+    padding: 5px;
+}
+
+.amount {
+    font-size: 22px;
+}

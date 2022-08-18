@@ -3,7 +3,7 @@ import List from './components/List';
 function App() {
   return (
     <>
-      <List title={"Minha lista"} />
+      <List title={"Todo List"} />
     </>
   );
 }
